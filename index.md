@@ -1,5 +1,4 @@
 
-
 <h2>Hey there! I'm Udhayakumar</h2>
 
 🎓 &nbsp;I'm currently studying Computer Science Engineering at KPR Institute of Engineering and Technology.\
