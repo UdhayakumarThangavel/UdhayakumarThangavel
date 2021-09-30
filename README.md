@@ -1,11 +1,10 @@
 
 <h2>Hey there! I'm Udhayakumar</h2>
 
-🎓 &nbsp;I'm currently studying Computer Science Engineering at KPR Institute of Engineering and Technology.\
-✉️ &nbsp;You can shoot me an email at dev.udhayakumar@gmail.com! I'll try to respond.\
-📄 &nbsp;Have a look at my [Resume](https://drive.google.com/file/d/1KnIaJdtu-YmgH2nJzAMh3QXkqUnAQxNa/view?usp=sharing) for more details about me.
-
-
+### 🤔 &nbsp;About
+🎓 &nbsp;Currently KPRIET-Student.\
+✉️ &nbsp;Tirupur,Tamilnadu.\
+📄 &nbsp;ithukumela 'i have nothing to say.'
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -18,7 +17,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-
+[Resume](https://drive.google.com/file/d/1KnIaJdtu-YmgH2nJzAMh3QXkqUnAQxNa/view?usp=sharing)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -32,7 +31,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/udhayakumar-t-a0a782191/"><img src="https://img.shields.io/badge/-dev_udhayakumar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://t.me/dev_udhayakumar"><img src="https://img.shields.io/badge/-dev_udhayakumar-0077B5?style=flat&logo=Telegram&logoColor=white"/></a>
 <a href="mailto:dev.udhayakumar@gmail.com"><img src="https://img.shields.io/badge/-dev.udhayakumar-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/dev_udhayakumar/"><img src="https://img.shields.io/badge/-@dev_udhayakumar-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://twitter.com/dev_udhayakumar"><img src="https://img.shields.io/badge/-@dev_udhayakumar-1877F2?style=flat&logo=twitter&logoColor=white"/></a>
