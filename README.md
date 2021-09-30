@@ -23,17 +23,17 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<a href="https://github.com/udhay5021">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=udhay5021&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=udhay5021&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/dev-udhayakumar">
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dev-udhayakumar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dev-udhayakumar&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/udhayakumar-t-a0a782191/"><img src="https://img.shields.io/badge/-Udhayakumar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/udhayakumar-t-a0a782191/"><img src="https://img.shields.io/badge/-dev_udhayakumar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:dev.udhayakumar@gmail.com"><img src="https://img.shields.io/badge/-dev.udhayakumar-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/udhay_5021/"><img src="https://img.shields.io/badge/-@udhay_5021-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://twitter.com/udhay_5021"><img src="https://img.shields.io/badge/-@udhay_5021-1877F2?style=flat&logo=twitter&logoColor=white"/></a>
+<a href="https://www.instagram.com/dev_udhayakumar/"><img src="https://img.shields.io/badge/-@dev_udhayakumar-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://twitter.com/dev_udhayakumar"><img src="https://img.shields.io/badge/-@dev_udhayakumar-1877F2?style=flat&logo=twitter&logoColor=white"/></a>
 </p>
