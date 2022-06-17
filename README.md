@@ -3,7 +3,7 @@
 
 ### 🤔 &nbsp;About
 🎓 &nbsp;Currently KPRIET-Student.\
-✉️ &nbsp;Tirupur,Tamilnadu.\
+✉️ &nbsp;Tirupur,Tamilnadu.
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -17,7 +17,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=007ACC)&nbsp;\
-[Resume]([https://drive.google.com/file/d/1KnIaJdtu-YmgH2nJzAMh3QXkqUnAQxNa/view?usp=sharing](https://www.canva.com/design/DAEzm20P9cw/tP-7uDA7kyof0POs6TGJ8A/view?utm_content=DAEzm20P9cw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink))
+[Resume](https://www.canva.com/design/DAEzm20P9cw/tP-7uDA7kyof0POs6TGJ8A/view?utm_content=DAEzm20P9cw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
