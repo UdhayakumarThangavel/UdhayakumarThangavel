@@ -4,7 +4,6 @@
 ### 🤔 &nbsp;About
 🎓 &nbsp;Currently KPRIET-Student.\
 ✉️ &nbsp;Tirupur,Tamilnadu.\
-📄 &nbsp;ithukumela 'i have nothing to say.'
 
 ### 🛠 &nbsp;Tech Stack
 
