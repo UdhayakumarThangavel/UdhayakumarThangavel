@@ -23,9 +23,9 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<a href="https://github.com/dev-udhayakumar">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dev-udhayakumar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dev-udhayakumar&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/devudhayakumar">
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=devudhayakumar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devudhayakumar&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
