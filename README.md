@@ -3,7 +3,7 @@
 ## I'm Udhayakumar,
 
 
-Undertaking my Bachelor&#39;s from theKPR Institute of Engineering and Technology in computer science and engineering in Coimbatore, Tamilnadu.
+Undertaking my Bachelor&#39;s from KPR Institute of Engineering and Technology in Department of computer science and engineering in Coimbatore, Tamilnadu.
 
 ### 🛠 &nbsp;Tech Stack
 
