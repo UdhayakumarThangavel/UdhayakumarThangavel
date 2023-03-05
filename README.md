@@ -2,7 +2,7 @@
 ### I'm Udhayakumar,
 
 
-Undertaking my Bachelor&#39;s from KPR Institute of Engineering and Technology in Department of computer science and engineering in Coimbatore, Tamilnadu.
+Undertaking my Bachelor&#39;s from KPR Institute of Engineering and Technology(Department of CSE) in Coimbatore, Tamilnadu.
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -19,10 +19,12 @@ Undertaking my Bachelor&#39;s from KPR Institute of Engineering and Technology i
 <p align="left">
 <a href="https://github.com/devudhayakumar">
   
-  <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=devudhayakumar&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+  ![](https://raw.githubusercontent.com/devudhayakumar/git-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/devudhayakumar/git-stats/master/generated/overview.svg#gh-light-mode-only)
 
-  <img height="180em"  src="https://streak-stats.demolab.com?user=devudhayakumar"/>
-   <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devudhayakumar&layout=compact&langs_count=8&theme=light"/>
+ ![](https://raw.githubusercontent.com/devudhayakumar/git-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/devudhayakumar/git-stats/master/generated/languages.svg#gh-light-mode-only)
+
 </a>
  
 </p>
