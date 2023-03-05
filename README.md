@@ -7,7 +7,7 @@ Undertaking my Bachelor&#39;s from KPR Institute of Engineering and Technology i
 
 ### 🛠 &nbsp;Tech Stack
 
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;\
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;\
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;\
 ![React js](https://img.shields.io/badge/-React%20js-05122A?style=flat&logo=react)&nbsp;\
 ![SpringBoot](https://img.shields.io/badge/-Spring%2Boot-05122A?style=flat&logo=spring-boot&logoColor=007ACC)&nbsp;\
