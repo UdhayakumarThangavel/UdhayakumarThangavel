@@ -1,5 +1,5 @@
 
-<img src="https://i.imgur.com/Fihbexl.gif" width="400px" height="150px">
+<img src="https://i.imgur.com/Fihbexl.gif" width="400px" height="130px">
 
 ### I'm Udhayakumar,
 
@@ -8,19 +8,20 @@ Undertaking my Bachelor&#39;s from KPR Institute of Engineering and Technology i
 
 ### 🛠 &nbsp;Tech Stack
 
-![Java](./icons8-java.gif)&nbsp;\
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;\
-![React js](https://img.shields.io/badge/-React%20js-05122A?style=flat&logo=react)&nbsp;\
-![SpringBoot](https://img.shields.io/badge/-Spring%2Boot-05122A?style=flat&logo=spring-boot&logoColor=007ACC)&nbsp;\
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=007ACC)&nbsp;
+![Java](./java-skill.svg)
+![JavaScript](./JavaScript-skill.svg)
+![React js](./React-skill.svg)
+![SpringBoot](./SpringBoot-skill.svg)
+![Android Studio](./Android-skill.svg)
+![Figma](./Figma-skill.svg)
 
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
 <a href="https://github.com/devudhayakumar">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=devudhayakumar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devudhayakumar&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=devudhayakumar&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+  <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devudhayakumar&layout=compact&langs_count=8&theme=light"/>
 </a>
 </p>
 
