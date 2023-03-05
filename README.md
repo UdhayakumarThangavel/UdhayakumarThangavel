@@ -1,13 +1,14 @@
 
-![App Screenshot](https://i.imgur.com/Fihbexl.gif)
-## I'm Udhayakumar,
+<img src="https://i.imgur.com/Fihbexl.gif" width="400px" height="150px">
+
+### I'm Udhayakumar,
 
 
 Undertaking my Bachelor&#39;s from KPR Institute of Engineering and Technology in Department of computer science and engineering in Coimbatore, Tamilnadu.
 
 ### 🛠 &nbsp;Tech Stack
 
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;\
+![Java](./icons8-java.gif)&nbsp;\
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;\
 ![React js](https://img.shields.io/badge/-React%20js-05122A?style=flat&logo=react)&nbsp;\
 ![SpringBoot](https://img.shields.io/badge/-Spring%2Boot-05122A?style=flat&logo=spring-boot&logoColor=007ACC)&nbsp;\
