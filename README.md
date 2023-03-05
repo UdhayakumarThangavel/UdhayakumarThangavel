@@ -1,5 +1,5 @@
 
-<img src="https://i.imgur.com/Fihbexl.gif" width="400px" height="130px">
+<img src="./ezgif.com-crop.gif" width="350px" height="160px">
 
 ### I'm Udhayakumar,
 
