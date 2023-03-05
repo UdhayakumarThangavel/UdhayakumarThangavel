@@ -6,7 +6,8 @@ Undertaking my Bachelor&#39;s from KPR Institute of Engineering and Technology(D
 
 ### 🛠 &nbsp;Tech Stack
 
-![Java](./java-skill.svg)
+![Java](./java-skill.svg#gh-dark-mode-only)
+![Java](./java-skill.svg#gh-light-mode-only)
 ![JavaScript](./JavaScript-skill.svg)
 ![React js](./React-skill.svg)
 ![SpringBoot](./SpringBoot-skill.svg)
