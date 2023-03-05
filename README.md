@@ -1,6 +1,4 @@
 
-<img src="./ezgif.com-crop.gif" width="350px" height="160px">
-
 ### I'm Udhayakumar,
 
 
@@ -20,15 +18,13 @@ Undertaking my Bachelor&#39;s from KPR Institute of Engineering and Technology i
 
 <p align="left">
 <a href="https://github.com/devudhayakumar">
+  
   <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=devudhayakumar&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
-  <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devudhayakumar&layout=compact&langs_count=8&theme=light"/>
+
+  <img height="180em"  src="https://streak-stats.demolab.com?user=devudhayakumar"/>
+   <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devudhayakumar&layout=compact&langs_count=8&theme=light"/>
 </a>
+ 
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
 
-<p align="left">
-<a href="https://t.me/udhayakumart"><img src="https://img.shields.io/badge/-dev_udhayakumar-0077B5?style=flat&logo=Telegram&logoColor=white"/></a>
-<a href="mailto:dev.udhayakumar@gmail.com"><img src="https://img.shields.io/badge/-dev.udhayakumar-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://twitter.com/Udhayakumar__T"><img src="https://img.shields.io/badge/-@dev_udhayakumar-1877F2?style=flat&logo=twitter&logoColor=white"/></a>
-</p>
