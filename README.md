@@ -21,7 +21,6 @@ Undertaking my Bachelor&#39;s from KPR Institute of Engineering and Technology(D
   
   ![](https://raw.githubusercontent.com/devudhayakumar/git-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/devudhayakumar/git-stats/master/generated/overview.svg#gh-light-mode-only)
-
  ![](https://raw.githubusercontent.com/devudhayakumar/git-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/devudhayakumar/git-stats/master/generated/languages.svg#gh-light-mode-only)
 
