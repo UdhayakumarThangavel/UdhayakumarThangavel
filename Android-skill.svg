@@ -16,7 +16,7 @@
           background-color: black;
         }
         rect {
-             fill: #212121; <!-- set icon color for light mode -->
+             fill: #0d1117; <!-- set icon color for light mode -->
         }
         #gh-dark-mode-only{
       fill: #ffffff; <!-- set icon color for light mode -->
