@@ -1,10 +1,9 @@
 
-### I'm Udhayakumar,
+### 👨‍💻 &nbsp;About
 
+I'm in my final year of engineering. The past three years have been an enjoyable experience learning about computer programmes and other computer foundations. Right now, I'm focusing on exploring Java and Java-based technologies with the goal of starting my software development career in Java. Happy Coding🤗
 
-Undertaking my Bachelor&#39;s from KPR Institute of Engineering and Technology(Department of CSE) in Coimbatore, Tamilnadu.
-
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Skills
 
 ![Java](./java-skill.svg)
 ![JavaScript](./JavaScript-skill.svg)
