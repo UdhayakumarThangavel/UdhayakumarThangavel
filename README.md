@@ -1,7 +1,7 @@
 
 ### 👨‍💻 &nbsp;About
 
-I'm in my final year of engineering. The past three years have been an enjoyable experience learning about computer programmes and other computer foundations. Right now, I'm focusing on exploring Java and Java-based technologies with the goal of starting my software development career in Java. Happy Coding🤗
+Just finished my engineering. The past four years have been an enjoyable experience learning about computer programmes and other computer foundations. Right now, I'm focusing on exploring the world of Data and AI. Happy Coding🤗
 
 ### 🛠 &nbsp;Skills
 
