@@ -1,7 +1,13 @@
 
 ### 👨‍💻 &nbsp;About
+#### Hi there 👋
+I'm Udhayakumar, a passionate Full-Stack Developer from Tiruppur, Tamil Nadu.
 
-Just finished my engineering. The past four years have been an enjoyable experience learning about computer programmes and other computer foundations. Right now, I'm focusing on exploring the world of Data and AI. Happy Coding🤗
+🔭 I’m currently working on interesting projects and continuously learning new technologies.
+
+🌱 I'm proficient in Java, JavaScript, SpringBoot, ReactJS, and more.
+
+💬 Ask me about software development, web applications, and Android app development.
 
 ### 🛠 &nbsp;Skills
 
@@ -16,13 +22,12 @@ Just finished my engineering. The past four years have been an enjoyable experie
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<a href="https://github.com/devudhayakumar">
+<a href="https://github.com/UdhayakumarThangavel">
   
-  ![](https://raw.githubusercontent.com/devudhayakumar/git-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/devudhayakumar/git-stats/master/generated/overview.svg#gh-light-mode-only)
- ![](https://raw.githubusercontent.com/devudhayakumar/git-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/devudhayakumar/git-stats/master/generated/languages.svg#gh-light-mode-only)
-
+  ![](https://raw.githubusercontent.com/UdhayakumarThangavel/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/UdhayakumarThangavel/github-stats/master/generated/languages.svg#gh-light-mode-only)
+  ![](https://raw.githubusercontent.com/UdhayakumarThangavel/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/UdhayakumarThangavel/github-stats/master/generated/overview.svg#gh-light-mode-only)
 </a>
  
 </p>
